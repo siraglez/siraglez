@@ -51,8 +51,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=siraglez&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siraglez&icon=5&color=1)](https://visitcount.itsvg.in)
----
 
 ## 🌐Conecta conmigo
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9KzepfYq) 
