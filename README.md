@@ -52,6 +52,7 @@ Generador de menús semanales personalizado en **React Native** con integración
 ![](https://github-readme-stats.vercel.app/api?username=siraglez&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=siraglez&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraglez&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Visitas](https://komarev.com/ghpvc/?username=siraglez&color=blue)
 
 ## 🏆Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=siraglez&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
@@ -65,8 +66,6 @@ Generador de menús semanales personalizado en **React Native** con integración
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sira_glez) 
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
----
-![Visitas](https://komarev.com/ghpvc/?username=siraglez&color=blue)
 ---
 
 ## 💰Puedes apoyarme donando
