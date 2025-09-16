@@ -47,7 +47,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=siraglez&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraglez&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 Trofeos de GitHub
+## 🏆Trofeos de GitHub
 ![](https://github-profile-trophy.vercel.app/?username=siraglez&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -60,6 +60,6 @@
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
 ---
-## 💰 Puedes apoyarme donando
+## 💰Puedes apoyarme donando
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/siraglez) 
 
