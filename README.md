@@ -60,6 +60,9 @@
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
 ---
+[![](https://visitcount.itsvg.in/api?id=siraglez&icon=5&color=1)](https://visitcount.itsvg.in)
+---
+
 ## 💰Puedes apoyarme donando
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/siraglez) 
 
