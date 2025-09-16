@@ -1,4 +1,4 @@
-# Hola! Soy Sira ✨�
+# Hola! Soy Sira ✨
 
 🎓 Estudiante de último curso de **Ingeniería Informática** en la UAX (Madrid, España).  
 💡 Apasionada por el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  
