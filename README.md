@@ -22,6 +22,17 @@ Generador de menús semanales personalizado en **React Native** con integración
 - 💻 Tecnologías: React Native, Firebase, JavaScript  
 
 🔒 *(Repositorio privado – en desarrollo)*
+--
+### 🌍 LoveTripWeb  
+Web para gestión de viajes y planificación de itinerarios, disponible públicamente.  
+
+✨ **Características**  
+- 🧭 Planificación de rutas y viajes  
+- 📅 Gestión de itinerarios por días  
+- 💻 Responsive para desktop y móvil  
+- 🛠️ Tecnologías: React · HTML · CSS · JavaScript  
+
+🔗 [Ver repositorio](https://github.com/siraglez/LoveTripWeb)  
 
 ---
 
