@@ -35,10 +35,16 @@
 
 ---
 
-## 📌Proyectos destacados
-*(En progreso, pronto más actualizaciones 🚧)*  
+## 🚀Proyectos destacados
 
-- 📱 **Menú Semanal App** → Generador automático de menús semanales (React Native + Firebase).
+### 🍽️ App Menú Semanal (En desarrollo)  
+Generador de menús semanales personalizado en **React Native** con integración en **Firebase**.  
+- 📱 Adaptado para iOS y Android  
+- 👤 Soporta preferencias de usuario  
+- 🗄️ Gestión de recetas y menús  
+- 💻 Tecnologías: React Native, Firebase, JavaScript  
+
+🔒 *(Repositorio privado – en desarrollo)*
 
 ---
 
@@ -60,7 +66,7 @@
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=siraglez&icon=5&color=1)](https://visitcount.itsvg.in)
+![Visitas](https://komarev.com/ghpvc/?username=siraglez&color=blue)
 ---
 
 ## 💰Puedes apoyarme donando
