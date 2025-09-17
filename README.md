@@ -58,6 +58,4 @@ Web para gestión de viajes y planificación de itinerarios, disponible pública
 
 ---
 
-## 💰Puedes apoyarme donando
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/siraglez) 
 
