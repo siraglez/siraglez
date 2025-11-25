@@ -62,7 +62,7 @@ Transformación de mi currículum vitae en una experiencia web interactiva y mod
 - 📥 Opción para descargar la versión en PDF.
 - 💻 Tecnologías: HTML5 · CSS3 · JavaScript
 
-🔗 [Ver repositorio](PON_TU_URL_AQUI) | [Ver web online](PON_TU_URL_AQUI)
+🔗 [Ver repositorio](https://github.com/siraglez/webCV.git) | [Ver web online](PON_TU_URL_AQUI)
 
 ---
 
