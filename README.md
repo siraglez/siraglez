@@ -55,6 +55,17 @@ Generador de menús semanales personalizado en **React Native** con integración
 
 ---
 
+### 📄 WebCV - Portfolio Digital
+Transformación de mi currículum vitae en una experiencia web interactiva y moderna.
+- 🎨 Diseño **Responsive** adaptado a todos los dispositivos.
+- ✨ Interfaz limpia con animaciones CSS.
+- 📥 Opción para descargar la versión en PDF.
+- 💻 Tecnologías: HTML5 · CSS3 · JavaScript
+
+🔗 [Ver repositorio](PON_TU_URL_AQUI) | [Ver web online](PON_TU_URL_AQUI)
+
+---
+
 ### 🌍 LoveTripWeb  
 Web para gestión de viajes y planificación de itinerarios, disponible públicamente.  
 
@@ -64,7 +75,7 @@ Web para gestión de viajes y planificación de itinerarios, disponible pública
 - 💻 Responsive para desktop y móvil  
 - 🛠️ Tecnologías: React · HTML · CSS · JavaScript  
 
-🔗 [Ver repositorio](https://github.com/siraglez/LoveTripWeb)  
+🔗 [Ver repositorio](https://github.com/siraglez/LoveTripWeb) | [Ver web online](PON_TU_URL_AQUI)
 
 ---
 
