@@ -75,7 +75,7 @@ Web para gestión de viajes y planificación de itinerarios, disponible pública
 - 💻 Responsive para desktop y móvil  
 - 🛠️ Tecnologías: React · HTML · CSS · JavaScript  
 
-🔗 [Ver repositorio](https://github.com/siraglez/LoveTripWeb) | [Ver web online](PON_TU_URL_AQUI)
+🔗 [Ver repositorio](https://github.com/siraglez/LoveTripWeb) | [Ver web online](https://siraglez.github.io/LoveTripWeb/)
 
 ---
 
