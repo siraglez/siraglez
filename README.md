@@ -45,11 +45,11 @@
 ## 🚀Proyectos destacados
 
 ### 🍽️ App Menú Semanal (En desarrollo)  
-Generador de menús semanales personalizado en **React Native** con integración en **Firebase**.  
-- 📱 Adaptado para iOS y Android  
+Generador de menús semanales personalizado con **Swift** y **SwiftUI**, trabajado con el IDE de apple **Xcode**.  
+- 📱 Adaptado para iOS  
 - 👤 Soporta preferencias de usuario  
 - 🗄️ Gestión de recetas y menús  
-- 💻 Tecnologías: React Native, Firebase, JavaScript  
+- 💻 Tecnologías: Swift · SwiftUI · SwiftData
 
 🔒 *(Repositorio privado – en desarrollo)*
 
