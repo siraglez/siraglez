@@ -1,9 +1,13 @@
 # Hola! Soy Sira ✨
 
 🎓 Graduada en **Ingeniería Informática** y actualmente especializándome en **Ciberseguridad** mediante un Máster. 
+
 💻 **Junior Developer** en Grupo Iris, desarrollando software en equipo para el sector de los viajes.
+
 💡 Interesada especialmente en el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  
-🌍 Experiencia internacional y entorno multicultural (Reino Unido, Bachillerato Internacional, Suecia).  
+
+🌍 Experiencia internacional y entorno multicultural (Reino Unido, Bachillerato Internacional, Suecia). 
+
 🔹 Bilingüe **Español / Inglés**.  
 
 ---
