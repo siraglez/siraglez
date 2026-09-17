@@ -1,8 +1,9 @@
 # Hola! Soy Sira ✨
 
-🎓 Estudiante de último curso de **Ingeniería Informática** en la UAX (Madrid, España).  
-💡 Apasionada por el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  
-🌍 Experiencia internacional (Reino Unido, Bachillerato Internacional).  
+🎓 Graduada en **Ingeniería Informática** y actualmente especializándome en **Ciberseguridad** mediante un Máster. 
+💻 **Junior Developer** en Grupo Iris, desarrollando software en equipo para el sector de los viajes.
+💡 Interesada especialmente en el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  
+🌍 Experiencia internacional y entorno multicultural (Reino Unido, Bachillerato Internacional, Suecia).  
 🔹 Bilingüe **Español / Inglés**.  
 
 ---
@@ -39,6 +40,29 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+---
+
+## 💼 Experiencia
+
+### 👩‍💻 Junior Developer — Grupo Iris
+Desarrollo de software como parte de un equipo para una plataforma orientada a agencias de viajes y al sector turístico.
+- 🤝 Trabajo colaborativo dentro de un equipo de desarrollo.
+- 💻 Desarrollo y mantenimiento de funcionalidades.
+- 🔄 Uso de herramientas de control de versiones y colaboración.
+- 🛠️ Participación en el desarrollo de aplicaciones y servicios orientados a entornos reales.
+
+---
+
+## 🔐 Actualmente aprendiendo
+Actualmente estoy especializándome en **Ciberseguridad** mediante el **Máster en Cybersecurity de University West** (Suecia).
+- 🛡️ **Principios de Ciberseguridad** — amenazas, vulnerabilidades, control de acceso, criptografía, seguridad de redes, firewalls, monitorización y protección de sistemas.
+- 🌐 **Seguridad de Redes y Sistemas** — análisis de comunicaciones, vulnerabilidades y mecanismos de defensa.
+- 🏭 **Seguridad de Sistemas Ciberfísicos** — IoT, sistemas industriales y dispositivos conectados.
+- ☁️ **Cloud Security** — seguridad de servicios cloud, identidades y control de acceso.
+- 🤖 **Evaluación y Gestión de Riesgos con IA**.
+- 🕵️ **Ethical Hacking, Penetration Testing & IT Forensics**.
+- ⚖️ **Privacidad, Legislación, Políticas y Compliance en Ciberseguridad**.
 
 ---
 
