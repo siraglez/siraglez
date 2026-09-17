@@ -31,7 +31,6 @@
 [![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)](https://www.thymeleaf.org/)
 [![JPA](https://img.shields.io/badge/JPA-%23007396.svg?style=for-the-badge&logo=hibernate&logoColor=white)](https://jakarta.ee/specifications/persistence/)
 [![JSF](https://img.shields.io/badge/JSF-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/faces/)
-[![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 **Bases de Datos**  
