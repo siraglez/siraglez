@@ -118,8 +118,8 @@ Web para gestión de viajes y planificación de itinerarios, disponible pública
 
 ## 📊 Estadísticas de Github
 ![Estadísticas de GitHub](./profile/stats.svg)</br>
-![Lenguajes más utilizados](./profile/top-langs.svg)</br>
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false)</br>
+![Lenguajes más utilizados](./profile/top-langs.svg)</br>
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=siraglez&color=blue)
 
 ---
