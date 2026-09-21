@@ -73,9 +73,7 @@ Actualmente estoy especializándome en **Ciberseguridad** mediante el **Máster 
 Portfolio web interactivo diseñado para funcionar como mi tarjeta de presentación digital mediante NFC.
 - 📲 Acceso directo al portfolio mediante una pegatina NFC.
 - 👩‍💻 Presentación de mi perfil, experiencia y habilidades.
-- 🚀 Sección de proyectos y trabajos destacados.
-- 📄 Acceso directo a mi CV online.
-- 🔗 Enlaces a mis perfiles de GitHub y LinkedIn.
+- 🔗 Enlaces a páginas relevantes.
 - 📬 Formas de contacto integradas.
 - 💻 Tecnologías: HTML · CSS · JavaScript · NFC
 
