@@ -1,13 +1,9 @@
 # Hola! Soy Sira ✨
 
-🎓 Graduada en **Ingeniería Informática** y actualmente especializándome en **Ciberseguridad** mediante un Máster. 
-
-💻 **Junior Developer** en Grupo Iris, desarrollando software en equipo para el sector de los viajes.
-
-💡 Interesada especialmente en el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  
-
-🌍 Experiencia internacional y entorno multicultural (Reino Unido, Bachillerato Internacional, Suecia). 
-
+🎓 Graduada en **Ingeniería Informática** y actualmente especializándome en **Ciberseguridad** mediante un Máster.<br/> 
+💻 **Junior Developer** en Grupo Iris, desarrollando software en equipo para el sector de los viajes.<br/>
+💡 Interesada especialmente en el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  <br/>
+🌍 Experiencia internacional y entorno multicultural (Reino Unido, Bachillerato Internacional, Suecia).<br/>
 🔹 Bilingüe **Español / Inglés**.  
 
 ---
@@ -71,7 +67,21 @@ Actualmente estoy especializándome en **Ciberseguridad** mediante el **Máster 
 
 ---
 
-## 🚀Proyectos destacados
+## 🚀 Proyectos destacados
+
+### 📱 Portfolio Interactivo NFC
+Portfolio web interactivo diseñado para funcionar como mi tarjeta de presentación digital mediante NFC.
+- 📲 Acceso directo al portfolio mediante una pegatina NFC.
+- 👩‍💻 Presentación de mi perfil, experiencia y habilidades.
+- 🚀 Sección de proyectos y trabajos destacados.
+- 📄 Acceso directo a mi CV online.
+- 🔗 Enlaces a mis perfiles de GitHub y LinkedIn.
+- 📬 Formas de contacto integradas.
+- 💻 Tecnologías: HTML · CSS · JavaScript · NFC
+
+🔗 [Ver repositorio](https://github.com/siraglez/portfolio) | [Ver portfolio online](https://siraglez.github.io/portfolio/projects.html)
+
+---
 
 ### 🍽️ App Menú Semanal (En desarrollo)  
 Generador de menús semanales personalizado con **Swift** y **SwiftUI**, trabajado con el IDE de apple **Xcode**.  
@@ -108,19 +118,19 @@ Web para gestión de viajes y planificación de itinerarios, disponible pública
 
 ---
 
-## 📊Estadísticas en Github
-![](https://github-readme-stats.vercel.app/api?username=siraglez&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siraglez&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siraglez&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Visitas](https://komarev.com/ghpvc/?username=siraglez&color=blue)
+## 📊 Estadísticas de Github
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=siraglez&show_icons=true&theme=nightowl&hide_border=false)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=siraglez&layout=compact&theme=nightowl&hide_border=false)
+![Racha de contribuciones](https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=siraglez&color=blue)
 
-## 🏆Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=siraglez&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Logros de GitHub
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siraglez&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-## 🌐Conecta conmigo
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9KzepfYq) 
+## 🌐 Conecta conmigo
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9KzepfYq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sira-glez)  
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
