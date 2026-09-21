@@ -1,16 +1,16 @@
-# Hola! Soy Sira ✨
+# Hello! I'm Sira ✨
 
-🎓 Graduada en **Ingeniería Informática** y actualmente especializándome en **Ciberseguridad** mediante un Máster.<br/> 
-💻 **Junior Developer** en Grupo Iris, desarrollando software en equipo para el sector de los viajes.<br/>
-💡 Interesada especialmente en el **desarrollo de aplicaciones móviles**, la **ciberseguridad** y el **aprendizaje continuo**.  <br/>
-🌍 Experiencia internacional y entorno multicultural (Reino Unido, Bachillerato Internacional, Suecia).<br/>
-🔹 Bilingüe **Español / Inglés**.  
+🎓 Graduate in **Computer Engineering** and currently specialising in **Cybersecurity** through a Masters.</br>
+💻 **Junior Developer** in Grupo Iris, developing software in a team for the travel sector.</br>
+💡 Specially interested in **app development**, **cybersecurity** and **continuous learning**.</br>
+🌍 International experience and multicultural environment (United Kingdom, International Baccalaureate, Sweden).</br>
+🔹 Bilingual **Spanish / English**.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Lenguajes de Programación**  
+**Programming Languages**  
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://www.swift.org/)
@@ -20,7 +20,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
-**Frameworks & Librerías**  
+**Frameworks & Libraries**  
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -29,13 +29,13 @@
 [![JSF](https://img.shields.io/badge/JSF-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/faces/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-**Bases de Datos**  
+**Databases**  
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![SwiftData](https://img.shields.io/badge/SwiftData-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/xcode/swiftdata/)
 
-**Herramientas & Otros**  
+**Tools & Others**  
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
@@ -44,87 +44,84 @@
 
 ---
 
-## 💼 Experiencia
+## 💼 Experience
 
 ### 👩‍💻 Junior Developer — Grupo Iris
-Desarrollo de software como parte de un equipo para una plataforma orientada a agencias de viajes y al sector turístico.
-- 🤝 Trabajo colaborativo dentro de un equipo de desarrollo.
-- 💻 Desarrollo y mantenimiento de funcionalidades.
-- 🔄 Uso de herramientas de control de versiones y colaboración.
-- 🛠️ Participación en el desarrollo de aplicaciones y servicios orientados a entornos reales.
+Software development as part of a team for a platform oriented to travel agencies and the travel sector.
+- 🤝 Collaborative work within a development team.
+- 💻 Development and maintenance of functionalities.
+- 🔄 Use of version control and collaboration tools.
+- 🛠️ Participation in the development of applications and services designed for real-world environments.
 
 ---
 
-## 🔐 Actualmente aprendiendo
-Actualmente estoy especializándome en **Ciberseguridad** mediante el **Máster en Cybersecurity de University West** (Suecia).
-- 🛡️ **Principios de Ciberseguridad** — amenazas, vulnerabilidades, control de acceso, criptografía, seguridad de redes, firewalls, monitorización y protección de sistemas.
-- 🌐 **Seguridad de Redes y Sistemas** — análisis de comunicaciones, vulnerabilidades y mecanismos de defensa.
-- 🏭 **Seguridad de Sistemas Ciberfísicos** — IoT, sistemas industriales y dispositivos conectados.
-- ☁️ **Cloud Security** — seguridad de servicios cloud, identidades y control de acceso.
-- 🤖 **Evaluación y Gestión de Riesgos con IA**.
+## 🔐 Currently Learning
+I am currently specialising in **Cybersecurity** through the **Master's in Cybersecurity at University West** (Sweden).
+- 🛡️ **Cybersecurity Principles** — threats, vulnerabilities, access control, cryptography, network security, firewalls, system monitoring and protection.
+- 🌐 **Network and System Security** — analysis of communications, vulnerabilities, and defense mechanisms.
+- 🏭 **Cyber-Physical Systems Security** — IoT, industrial systems, and connected devices.
+- ☁️ **Cloud Security** — security for cloud services, identities, and access control.
+- 🤖 **AI-Driven Risk Assessment and Management**.
 - 🕵️ **Ethical Hacking, Penetration Testing & IT Forensics**.
-- ⚖️ **Privacidad, Legislación, Políticas y Compliance en Ciberseguridad**.
+- ⚖️ **Privacy, Legislation, Policies, and Cybersecurity Compliance**.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-### 📱 Portfolio Interactivo NFC
-Portfolio web interactivo diseñado para funcionar como mi tarjeta de presentación digital mediante NFC.
-- 📲 Acceso directo al portfolio mediante una pegatina NFC.
-- 👩‍💻 Presentación de mi perfil, experiencia y habilidades.
-- 🔗 Enlaces a páginas relevantes.
-- 📬 Formas de contacto integradas.
-- 💻 Tecnologías: HTML · CSS · JavaScript · NFC
+### 📱 Interactive NFC Portfolio
+Interactive web portfolio designed to function as my digital business card via NFC.
+- 📲 Direct access to the portfolio via an NFC sticker.
+- 👩‍💻 Presentation of my profile, experience, and skills.
+- 📬 Integrated contact forms.
+- 💻 Technologies: HTML · CSS · JavaScript · NFC
 
-🔗 [Ver repositorio](https://github.com/siraglez/portfolio) | [Ver portfolio online](https://siraglez.github.io/portfolio/projects.html)
+🔗 [View repository](https://github.com/siraglez/portfolio) | [View portfolio online](https://siraglez.github.io/portfolio/projects.html)
 
 ---
 
-### 🍽️ App Menú Semanal (En desarrollo)  
-Generador de menús semanales personalizado con **Swift** y **SwiftUI**, trabajado con el IDE de apple **Xcode**.  
-- 📱 Adaptado para iOS  
-- 👤 Soporta preferencias de usuario  
-- 🗄️ Gestión de recetas y menús  
-- 💻 Tecnologías: Swift · SwiftUI · SwiftData
+### 🍽️ Weekly Menu App (In development) 
+Weekly menu generator customised with **Swift** and **SwiftUI**, developed using Apple's **Xcode** IDE.  
+- 📱 Adapted for iOS 
+- 👤 Supports user preferences  
+- 🗄️ Recipe and menu management  
+- 💻 Technologies: Swift · SwiftUI · SwiftData
 
-🔒 *(Repositorio privado – en desarrollo)*
+🔒 *(Private repository – in development)*
 
 ---
 
 ### 📄 WebCV
-Transformación de mi currículum vitae en una experiencia web interactiva y moderna.
-- 🎨 Diseño **Responsive** adaptado a todos los dispositivos.
-- ✨ Interfaz limpia con animaciones CSS.
-- 📥 Opción para descargar la versión en PDF.
-- 💻 Tecnologías: HTML5 · CSS3 · JavaScript
+Transforming my résumé into a modern, interactive web experience.
+- 🎨 **Responsive** design adapted for all devices.
+- ✨ Clean interface with CSS animations.
+- 📥 Option to download the PDF version.
+- 💻 Technologies: HTML5 · CSS3 · JavaScript
 
-🔗 [Ver repositorio](https://github.com/siraglez/webCV.git) | [Ver web online](https://siraglez.github.io/webCV/)
+🔗 [View repository](https://github.com/siraglez/webCV.git) | [View website online](https://siraglez.github.io/webCV/)
 
 ---
 
 ### 🌍 LoveTripWeb  
-Web para gestión de viajes y planificación de itinerarios, disponible públicamente.  
+Publicly available website for travel management and itinerary planning.  
+- 🧭 Route and trip planning  
+- 📅 Day-by-day itinerary management  
+- 💻 Responsive for desktop and mobile  
+- 🛠️ Technologies: React · HTML · CSS · JavaScript  
 
-✨ **Características**  
-- 🧭 Planificación de rutas y viajes  
-- 📅 Gestión de itinerarios por días  
-- 💻 Responsive para desktop y móvil  
-- 🛠️ Tecnologías: React · HTML · CSS · JavaScript  
-
-🔗 [Ver repositorio](https://github.com/siraglez/LoveTripWeb) | [Ver web online](https://siraglez.github.io/LoveTripWeb/)
+🔗 [View repository](https://github.com/siraglez/LoveTripWeb) | [View website online](https://siraglez.github.io/LoveTripWeb/)
 
 ---
 
-## 📊 Estadísticas de Github
-![Estadísticas de GitHub](./profile/stats.svg)</br>
-![Racha de contribuciones](https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false)</br>
-![Lenguajes más utilizados](./profile/top-langs.svg)</br>
-![Visitas al perfil](https://komarev.com/ghpvc/?username=siraglez&color=blue)
+## 📊 GitHub Statistics
+![GitHub Statistics](./profile/stats.svg)</br>
+![Contribution streak](https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false)</br>
+![Most widely used languages](./profile/top-langs.svg)</br>
+![Profile visits](https://komarev.com/ghpvc/?username=siraglez&color=blue)
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9KzepfYq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sira-glez)  
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
