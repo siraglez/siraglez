@@ -119,13 +119,10 @@ Web para gestión de viajes y planificación de itinerarios, disponible pública
 ---
 
 ## 📊 Estadísticas de Github
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=siraglez&show_icons=true&theme=nightowl&hide_border=false)
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=siraglez&layout=compact&theme=nightowl&hide_border=false)
+![Estadísticas de GitHub](./profile/stats.svg)
+![Lenguajes más utilizados](./profile/top-langs.svg)
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false)
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=siraglez&color=blue)
-
-## 🏆 Logros de GitHub
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=siraglez&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
