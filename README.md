@@ -84,7 +84,7 @@ Generador de menús semanales personalizado con **Swift** y **SwiftUI**, trabaja
 
 ---
 
-### 📄 WebCV - Portfolio Digital
+### 📄 WebCV
 Transformación de mi currículum vitae en una experiencia web interactiva y moderna.
 - 🎨 Diseño **Responsive** adaptado a todos los dispositivos.
 - ✨ Interfaz limpia con animaciones CSS.
