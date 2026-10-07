@@ -127,4 +127,4 @@ Publicly available website for travel management and itinerary planning.
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
 ---
-$$\text{Asset} \xrightarrow{\text{has}} \text{Vulnerability} \xrightarrow{\text{exploited by}} \text{Threat} \xrightarrow{\text{triggers}} \text{Attack} \xrightarrow{\text{induces}} \text{Risk} \xrightarrow{\text{leads to}} \text{Impact} \xrightarrow{\text{mitigated by}} \text{Control}$$
+
