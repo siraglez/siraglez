@@ -129,5 +129,5 @@ Publicly available website for travel management and itinerary planning.
 ---
 $$\mathbf{\text{Subject}} \xrightarrow{\text{requests Action on}} 
 \mathbf{\text{Resource}} \quad \text{evaluated under} \quad 
-\mathbf{\text{Policy \& Context}} \implies 
+\mathbf{\text{Policy \ Context}} \implies 
 \mathbf{\text{ALLOW / DENY}}$$
