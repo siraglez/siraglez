@@ -127,5 +127,5 @@ Publicly available website for travel management and itinerary planning.
 [![email](https://img.shields.io/badge/Correo-D14836?logo=gmail&logoColor=white)](mailto:sira@madronogarcia.com) 
 
 ---
-Strong $\star$ — Property: 
+$\text{No Write Down}$
 
