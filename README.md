@@ -114,10 +114,16 @@ Publicly available website for travel management and itinerary planning.
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Statistics](./profile/stats.svg)</br>
-![Contribution streak](https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false)</br>
-![Most widely used languages](./profile/top-langs.svg)</br>
-![Profile visits](https://komarev.com/ghpvc/?username=siraglez&color=blue)
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Statistics" height="180" />
+  <img src="./profile/top-langs.svg" alt="Most Used Languages" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=siraglez&theme=nightowl&hide_border=false" alt="Contribution Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siraglez&style=flat-square&color=blue" alt="Profile Visits"/>
+</p>
 
 ---
 
